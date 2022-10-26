@@ -1,0 +1,87 @@
+[
+  {
+    "courseName": "Amazon Web Services (AWS) Certified 2022 - 4 Certifications!",
+    "courseBannerUrl": "https://i.ibb.co/09YRtqm/course1.webp",
+    "enrolled": 138357,
+    "duration": 5,
+    "ratings": 4,
+    "lectures": 30,
+    "uid": 1,
+    "id": "OVE63EEK4BG",
+    "instructorName": "Regina Thompson",
+    "instructorImage": "https://i.ibb.co/5cDRnk2/ins1.webp",
+    "price": "$82.62",
+    "category": "Amazon AWS"
+  },
+  {
+    "courseName": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
+    "courseBannerUrl": "https://i.ibb.co/PrfXmF0/course2.webp",
+    "enrolled": 851,
+    "duration": 6,
+    "ratings": 5,
+    "lectures": 24,
+
+    "uid": 2,
+    "id": "TVA56CUU8JP",
+    "instructorName": "Nigel Carver",
+    "instructorImage": "https://i.ibb.co/5krQXzf/ins2.webp",
+    "price": "$42.15",
+    "category": "Office Productivity"
+  },
+  {
+    "courseName": "The Complete 2022 Web Development Bootcamp",
+    "courseBannerUrl": "https://i.ibb.co/MMBx1sP/course3.webp",
+    "enrolled": 364,
+    "duration": 40,
+    "ratings": 5,
+    "lectures": 21,
+    "uid": 3,
+    "id": "VME23VDO4TK",
+    "instructorName": "Jakeem Maxwell",
+    "instructorImage": "https://i.ibb.co/RN59123/ins3.webp",
+    "price": "$8.01",
+    "category": "Development"
+  },
+  {
+    "courseName": "General Networking - wireless, routers, firewalls, Cisco NAS",
+    "courseBannerUrl": "https://i.ibb.co/GszPV6K/course4.webp",
+    "enrolled": 4465,
+    "duration": 3,
+    "ratings": 3,
+    "lectures": 11,
+    "uid": 4,
+    "id": "AER87CST7IL",
+    "instructorName": "Hasad Blankenship",
+    "instructorImage": "https://i.ibb.co/MRT78kJ/ins4.webp",
+    "price": "$40.13",
+    "category": "IT & Software"
+  },
+  {
+    "courseName": "Facebook Marketing 2022: 1000% Facebook Engagement & Sales",
+    "courseBannerUrl": "https://i.ibb.co/71kwKG0/course5.webp",
+    "enrolled": 64,
+    "duration": 3,
+    "ratings": 4,
+    "lectures": 11,
+    "uid": 5,
+    "id": "AER87CST7IL",
+    "instructorName": "Hasad Blankenship",
+    "instructorImage": "https://i.ibb.co/vQBcJjt/ins5.webp",
+    "price": "$40.13",
+    "category": "Marketing"
+  },
+  {
+    "courseName": "Data Science A-Z™: Real-Life Data Science Exercises Included",
+    "courseBannerUrl": "https://i.ibb.co/6490xqM/course6.webp",
+    "enrolled": 485,
+    "duration": 21,
+    "ratings": 3,
+    "lectures": 22,
+    "uid": 6,
+    "id": "QWY16YIQ8QM",
+    "instructorName": "Levi Butler",
+    "instructorImage": "https://i.ibb.co/yBF7xCR/ins6.webp",
+    "price": "$38.48",
+    "category": "data science"
+  }
+]

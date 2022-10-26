@@ -1,0 +1,119 @@
+[
+  {
+    "courseName": "Amazon Web Services (AWS) Certified 2022 - 4 Certifications!",
+    "courseBannerUrl": "https://i.ibb.co/09YRtqm/course1.webp",
+    "enrolled": 138357,
+    "duration": 5,
+    "lectures": 30,
+    "level": "Hard",
+    "overview": [
+      "You will be fully prepared for the AWS Certified Solutions Architect Associate, AWS Certified Developer Associate and AWS Certified SysOps Administrator Associate exams."
+    ],
+    "id": "OVE63EEK4BG",
+    "instructorName": "Regina Thompson",
+    "instructorImage": "https://i.ibb.co/5cDRnk2/ins1.webp",
+    "price": "$82.62",
+    "category": "Amazon AWS",
+    "descripton": "Videos, labs & practice exams - AWS Certified (Solutions Architect, Developer, SysOps Administrator, Cloud Practitioner)"
+  },
+  {
+    "courseName": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
+    "courseBannerUrl": "https://i.ibb.co/PrfXmF0/course2.webp",
+    "enrolled": 851,
+    "duration": 6,
+    "lectures": 24,
+    "level": "intermediate",
+    "overview": [
+      "Learn Microsoft Excel 2010 from a professional trainer from your own desk.",
+      "106 lectures (7.5 hours of content) teaching you from the basic to the advanced of this powerful program",
+      "Suitable for beginners to advanced users. ideal for users who learn faster when shown.",
+      "Visual training method, offering users increased retention and accelerated learning."
+    ],
+    "id": "TVA56CUU8JP",
+    "instructorName": "Nigel Carver",
+    "instructorImage": "https://i.ibb.co/5krQXzf/ins2.webp",
+    "price": "$42.15",
+    "category": "Office Productivity",
+    "descripton": "Learn to Master Microsoft Excel In Easy To Follow Step-By-Step Training Course. Comes With Extensive Working Files"
+  },
+  {
+    "courseName": "The Complete 2022 Web Development Bootcamp",
+    "courseBannerUrl": "https://i.ibb.co/MMBx1sP/course3.webp",
+    "enrolled": 364,
+    "duration": 40,
+    "lectures": 21,
+    "level": "intermediate",
+    "overview": [
+      "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+      "You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "You will master both front and back-end development, becoming a full-stack developer by the end of the course.",
+      "After the course you will be able to build ANY website you want."
+    ],
+    "id": "VME23VDO4TK",
+    "instructorName": "Jakeem Maxwell",
+    "instructorImage": "https://i.ibb.co/RN59123/ins3.webp",
+    "price": "$8.01",
+    "category": "Development",
+    "descripton": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps"
+  },
+  {
+    "courseName": "General Networking - wireless, routers, firewalls, Cisco NAS",
+    "courseBannerUrl": "https://i.ibb.co/GszPV6K/course4.webp",
+    "enrolled": 4465,
+    "duration": 3,
+    "lectures": 11,
+    "level": "intermediate",
+    "overview": [
+      "To provide insight into Networking and learn how to configure a router",
+      "Develop working knowledge of how networks operate",
+      "Learn about security, wireless, troubleshooting",
+      "Find out how to configure an IP Camera and NAS Servers"
+    ],
+    "id": "AER87CST7IL",
+    "instructorName": "Hasad Blankenship",
+    "instructorImage": "https://i.ibb.co/MRT78kJ/ins4.webp",
+    "price": "$40.13",
+    "category": "IT & Software",
+    "descripton": "Port forwarding? Dynamic DNS? Home NAS Server? Slow Wireless? Learn how to fix your home nework. Includes 802.11ac!"
+  },
+  {
+    "courseName": "Facebook Marketing 2022: 1000% Facebook Engagement & Sales",
+    "courseBannerUrl": "https://i.ibb.co/71kwKG0/course5.webp",
+    "enrolled": 64,
+    "duration": 3,
+    "lectures": 11,
+    "level": "easy",
+    "overview": [
+      "Grow fans, engagement and customers using Facebook",
+      "New lecture with 25 strategies to promote your business on Facebook",
+      "World-class student care by a caring instructor",
+      "Maximize the reach of every one of your Facebook updates"
+    ],
+    "id": "AER87CST7IL",
+    "instructorName": "Hasad Blankenship",
+    "instructorImage": "https://i.ibb.co/vQBcJjt/ins5.webp",
+    "price": "$40.13",
+    "category": "Marketing",
+    "descripton": "Go viral, get more FB sharing! Facebook marketing & advertising strategies with business groups, pages, FB Live, Pixel"
+  },
+  {
+    "courseName": "Data Science A-Z™: Real-Life Data Science Exercises Included",
+    "courseBannerUrl": "https://i.ibb.co/6490xqM/course6.webp",
+    "enrolled": 485,
+    "duration": 21,
+    "lectures": 22,
+    "level": "Medium",
+    "overview": [
+      "Successfully perform all steps in a complex Data Science project",
+      "Create Basic Tableau Visualisations",
+      "Perform Data Mining in Tableau",
+      "Understand how to apply the Chi-Squared statistical test"
+    ],
+    "id": "QWY16YIQ8QM",
+    "instructorName": "Levi Butler",
+    "instructorImage": "https://i.ibb.co/yBF7xCR/ins6.webp",
+    "price": "$38.48",
+    "category": "data science",
+    "descripton": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!"
+  }
+]
