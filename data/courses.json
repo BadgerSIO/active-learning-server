@@ -11,6 +11,7 @@
     "instructorName": "Regina Thompson",
     "instructorImage": "https://i.ibb.co/5cDRnk2/ins1.webp",
     "price": "$82.62",
+    "catID": 1,
     "category": "Amazon AWS"
   },
   {
@@ -26,6 +27,7 @@
     "instructorName": "Nigel Carver",
     "instructorImage": "https://i.ibb.co/5krQXzf/ins2.webp",
     "price": "$42.15",
+    "catID": 2,
     "category": "Office Productivity"
   },
   {
@@ -40,6 +42,7 @@
     "instructorName": "Jakeem Maxwell",
     "instructorImage": "https://i.ibb.co/RN59123/ins3.webp",
     "price": "$8.01",
+    "catID": 3,
     "category": "Development"
   },
   {
@@ -54,7 +57,8 @@
     "instructorName": "Hasad Blankenship",
     "instructorImage": "https://i.ibb.co/MRT78kJ/ins4.webp",
     "price": "$40.13",
-    "category": "IT & Software"
+    "catID": 4,
+    "category": "IT and Software"
   },
   {
     "courseName": "Facebook Marketing 2022: 1000% Facebook Engagement & Sales",
@@ -64,10 +68,11 @@
     "ratings": 4,
     "lectures": 11,
     "uid": 5,
-    "id": "AER87CST7IL",
+    "id": "AER87CST7IQ",
     "instructorName": "Hasad Blankenship",
     "instructorImage": "https://i.ibb.co/vQBcJjt/ins5.webp",
     "price": "$40.13",
+    "catID": 5,
     "category": "Marketing"
   },
   {
@@ -82,6 +87,7 @@
     "instructorName": "Levi Butler",
     "instructorImage": "https://i.ibb.co/yBF7xCR/ins6.webp",
     "price": "$38.48",
+    "catID": 6,
     "category": "data science"
   }
 ]

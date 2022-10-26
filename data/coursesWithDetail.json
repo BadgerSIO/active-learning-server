@@ -4,6 +4,7 @@
     "courseBannerUrl": "https://i.ibb.co/09YRtqm/course1.webp",
     "enrolled": 138357,
     "duration": 5,
+    "ratings": 4,
     "lectures": 30,
     "level": "Hard",
     "overview": [
@@ -13,6 +14,7 @@
     "instructorName": "Regina Thompson",
     "instructorImage": "https://i.ibb.co/5cDRnk2/ins1.webp",
     "price": "$82.62",
+    "catID": 1,
     "category": "Amazon AWS",
     "descripton": "Videos, labs & practice exams - AWS Certified (Solutions Architect, Developer, SysOps Administrator, Cloud Practitioner)"
   },
@@ -21,6 +23,7 @@
     "courseBannerUrl": "https://i.ibb.co/PrfXmF0/course2.webp",
     "enrolled": 851,
     "duration": 6,
+    "ratings": 5,
     "lectures": 24,
     "level": "intermediate",
     "overview": [
@@ -33,6 +36,7 @@
     "instructorName": "Nigel Carver",
     "instructorImage": "https://i.ibb.co/5krQXzf/ins2.webp",
     "price": "$42.15",
+    "catID": 2,
     "category": "Office Productivity",
     "descripton": "Learn to Master Microsoft Excel In Easy To Follow Step-By-Step Training Course. Comes With Extensive Working Files"
   },
@@ -41,6 +45,7 @@
     "courseBannerUrl": "https://i.ibb.co/MMBx1sP/course3.webp",
     "enrolled": 364,
     "duration": 40,
+    "ratings": 5,
     "lectures": 21,
     "level": "intermediate",
     "overview": [
@@ -53,6 +58,7 @@
     "instructorName": "Jakeem Maxwell",
     "instructorImage": "https://i.ibb.co/RN59123/ins3.webp",
     "price": "$8.01",
+    "catID": 3,
     "category": "Development",
     "descripton": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps"
   },
@@ -61,6 +67,7 @@
     "courseBannerUrl": "https://i.ibb.co/GszPV6K/course4.webp",
     "enrolled": 4465,
     "duration": 3,
+    "ratings": 3,
     "lectures": 11,
     "level": "intermediate",
     "overview": [
@@ -73,7 +80,8 @@
     "instructorName": "Hasad Blankenship",
     "instructorImage": "https://i.ibb.co/MRT78kJ/ins4.webp",
     "price": "$40.13",
-    "category": "IT & Software",
+    "catID": 4,
+    "category": "IT and Software",
     "descripton": "Port forwarding? Dynamic DNS? Home NAS Server? Slow Wireless? Learn how to fix your home nework. Includes 802.11ac!"
   },
   {
@@ -81,6 +89,7 @@
     "courseBannerUrl": "https://i.ibb.co/71kwKG0/course5.webp",
     "enrolled": 64,
     "duration": 3,
+    "ratings": 4,
     "lectures": 11,
     "level": "easy",
     "overview": [
@@ -89,10 +98,11 @@
       "World-class student care by a caring instructor",
       "Maximize the reach of every one of your Facebook updates"
     ],
-    "id": "AER87CST7IL",
+    "id": "AER87CST7IQ",
     "instructorName": "Hasad Blankenship",
     "instructorImage": "https://i.ibb.co/vQBcJjt/ins5.webp",
     "price": "$40.13",
+    "catID": 5,
     "category": "Marketing",
     "descripton": "Go viral, get more FB sharing! Facebook marketing & advertising strategies with business groups, pages, FB Live, Pixel"
   },
@@ -101,6 +111,7 @@
     "courseBannerUrl": "https://i.ibb.co/6490xqM/course6.webp",
     "enrolled": 485,
     "duration": 21,
+    "ratings": 3,
     "lectures": 22,
     "level": "Medium",
     "overview": [
@@ -113,6 +124,7 @@
     "instructorName": "Levi Butler",
     "instructorImage": "https://i.ibb.co/yBF7xCR/ins6.webp",
     "price": "$38.48",
+    "catID": 6,
     "category": "data science",
     "descripton": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!"
   }
