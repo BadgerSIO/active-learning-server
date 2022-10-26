@@ -11,6 +11,7 @@ const coursesDetail = require("./data/coursesWithDetail.json");
 
 app.get("/", (req, res) => {
   res.send(courses);
+  console.log("server running");
 });
 
 app.listen(port, () => {
